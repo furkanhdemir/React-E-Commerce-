@@ -1,6 +1,13 @@
 # Getting Started with Create React E-Commerce-Project
 
+# Screenshots
+
 ![01!](ecommerce/client/src/photos/01.PNG)
+![02!](ecommerce/client/src/photos/02.PNG)
+![03!](ecommerce/client/src/photos/03.PNG)
+![04!](ecommerce/client/src/photos/04.PNG)
+![05!](ecommerce/client/src/photos/05.PNG)
+![06!](ecommerce/client/src/photos/06.PNG)
 
 ## Available Scripts
 
