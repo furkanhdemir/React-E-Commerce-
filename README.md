@@ -1,6 +1,22 @@
 # Getting Started with Create React E-Commerce-Project
 
-# Screenshots
+## About the Project
+
+There are 2 different types of entrances in the project. The first is as Client and the second is as Admin. When the client registers and logs in, he can view the products, add products to the cart, place an order and see his account details. In addition to all these, the admin can add new products to the database, edit products, and view users' information.
+
+### Login information
+
+Client
+
+Email: client@client.com
+Password:123456
+
+Admin
+
+Email: admin@admin.com
+Password:123456
+
+## Screenshots
 
 ![01!](ecommerce/client/src/photos/01.PNG)
 ![02!](ecommerce/client/src/photos/02.PNG)
