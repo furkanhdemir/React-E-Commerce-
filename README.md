@@ -1,4 +1,4 @@
-# Getting Started with Create React E-Commerce-Project
+# React E-Commerce-Project
 
 ## About the Project
 
