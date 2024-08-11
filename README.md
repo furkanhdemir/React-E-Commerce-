@@ -1,6 +1,6 @@
 # Getting Started with Create React E-Commerce-Project
 
-![01!](01.PNG)
+![01!](./client/src/photos/01.PNG)
 
 ## Available Scripts
 
