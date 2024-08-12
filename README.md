@@ -87,4 +87,8 @@ To run the project, you need to install the following packages.
 
 ## Contact
 
-Furkan Demir [linkedIn](https://www.linkedin.com/in/furkan-demir-a22844194/) [furkanhd22@gmail.com](mailto:furkanhd22@gmail.com)
+Furkan Demir
+
+[LinkedIn](https://www.linkedin.com/in/furkan-demir-a22844194/)
+
+[furkanhd22@gmail.com](mailto:furkanhd22@gmail.com)
