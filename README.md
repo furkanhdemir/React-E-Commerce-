@@ -27,6 +27,22 @@ There are 2 different types of entrances in the project. The first is as Client 
 ![05!](ecommerce/client/src/photos/05.PNG)
 ![06!](ecommerce/client/src/photos/06.PNG)
 
+## Packages Used
+
+The following packages were used during application development.
+
+`React`
+`React Router Dom`
+`React Query`
+`Yup`
+`antd`
+`Formik`
+`Chakra UI`
+
+## Database
+
+`MongoDB`
+
 ## Available Scripts
 
 In the project directory, you can run:
