@@ -84,3 +84,7 @@ To run the project, you need to install the following packages.
 ```bash
   npm start
 ```
+
+## Contact
+
+Furkan Demir [linkedIn](https://www.linkedin.com/in/furkan-demir-a22844194/)
