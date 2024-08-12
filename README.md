@@ -53,6 +53,34 @@ The following packages were used during application development.
 
 To run the project, you need to install the following packages.
 
+`npm`
+
 ```bash
-  npm run test
+  npm install npm@latest -g
+```
+
+## Setup
+
+1. Clone Github repo
+
+```bash
+  git clone https://github.com/furkanhdemir/React-E-Commerce-
+```
+
+2. Install NPM packages
+
+```bash
+  npm install
+```
+
+3. Run the backend (inside the backend folder)
+
+```bash
+  npm run dev
+```
+
+4. Run the client (inside the client folder)
+
+```bash
+  npm start
 ```
