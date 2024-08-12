@@ -32,11 +32,17 @@ There are 2 different types of entrances in the project. The first is as Client 
 The following packages were used during application development.
 
 `React`
+
 `React Router Dom`
+
 `React Query`
+
 `Yup`
+
 `antd`
+
 `Formik`
+
 `Chakra UI`
 
 ## Database
@@ -45,7 +51,7 @@ The following packages were used during application development.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run
 
 ### `npm start`
 
