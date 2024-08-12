@@ -8,15 +8,15 @@ There are 2 different types of entrances in the project. The first is as Client 
 
 `Client`
 
-`E-mail: client@client.com`
+E-mail: client@client.com
 
-`Password:123456`
+Password:123456
 
 `Admin`
 
-`Email: admin@admin.com`
+Email: admin@admin.com
 
-`Password:123456`
+Password:123456
 
 ## Screenshots
 
